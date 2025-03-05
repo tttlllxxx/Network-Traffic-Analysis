@@ -67,24 +67,49 @@ git push -u origin main
 ```
 
 
-
-## 现有文件夹初始化为Git仓库
+## 本地仓库修改后上传
 ***
 
-1\.打开终端
-2\.使用`cd`命令进入目标文件夹：
+### 1.查看本地仓库状态
+
 ```bash
-cd /path
+git status
 ```
-3\.运行以下命令初始化git仓库：
+如果有文件被修改、删除或新增，Git 会列出它们。
+
+### 2.添加修改到暂存区
+
+将所有修改的文件添加到暂存区：
 ```bash
-git init
+git add .
 ```
-4\.（可选）添加文件并提交
+或者单独添加某个文件：
 ```bash
-git add.
-git commit -m "Initial commit"
+git add filename
 ```
+
+### 3.提交更改
+
+使用 `commit` 提交更改，并写上本次提交的描述：
+```bash
+git commit -m "更新了功能 X，修复了 bug Y"
+```
+
+### 4.推送到GitHub
+
+将最新的更改推送到 GitHub：
+```bash
+git push origin master
+```
+
+### 5.（可选）拉取远程更新
+
+如果和其他人协作，或者在 GitHub 直接修改了代码，在推送之前，先拉取最新代码：
+```bash
+git pull origin main
+```
+然后再执行 `git push` 以防止冲突。
+
 
 ## 克隆远程仓库到本地
 ***
@@ -95,11 +120,5 @@ git clone https://github.com/your-username/your-repo.git
 ```
 这样会在当前目录下创建一个 `your-repo` 文件夹，并自动初始化为 Git 仓库。
 
-## 检查当前文件夹是否已是Git仓库
-***
 
-```bash
-git status
-```
-如果返回类似 `fatal: not a git repository`，说明该文件夹还不是 Git 仓库，需要执行 `git init`。
 
