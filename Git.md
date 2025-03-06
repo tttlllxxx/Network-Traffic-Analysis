@@ -50,7 +50,7 @@ git push -u origin main
 git push -u origin master
 ```
 
-### 4.(可选）如果 GitHub 仓库已有 `README.md` 或 `.gitignore`
+### 4.(可选）如果 GitHub 仓库已有 `README.md` 或者 `.gitignore`
 
 如果在 GitHub 上创建仓库时 **勾选了** "Initialize this repository with a README"，那么需要先拉取远程代码：
 ```bash
