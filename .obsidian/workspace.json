@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/Build the Neural Network 建立神经网络.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Build the Neural Network 建立神经网络"
+              "title": "Git"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "9105abbf69ceff8e",
   "lastOpenFiles": [
-    "Git.md",
     "Pytorch/Build the Neural Network 建立神经网络.md",
+    "Git.md",
     "Pytorch/Transforms 变换.md",
     "Pytorch/Datasets & DataLoaders 数据集和数据加载器.md",
     "Pytorch/Tensor 张量.md",
