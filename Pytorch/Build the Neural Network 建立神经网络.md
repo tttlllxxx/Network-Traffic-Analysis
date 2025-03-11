@@ -92,3 +92,13 @@ Predicted class: tensor([7], device='cuda:0')
 ## 模型层
 ***
 
+取 3 张大小为 28x28 的图像作为样本小批量，并观察它在通过网络时会发生什么。
+
+```Python
+input_image = torch.rand(3,28,28)
+print(input_image.size())
+```
+
+```Out
+torch.Size([3, 28, 28])
+```

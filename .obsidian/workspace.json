@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
-                "mode": "source",
+                "file": "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集和基准.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "物联网环境中大规模攻击的实时数据集和基准"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3b79d17913a424c0",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pytorch/Build the Neural Network 建立神经网络.md",
+                "file": "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集和基准.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Build the Neural Network 建立神经网络 的大纲"
+              "title": "物联网环境中大规模攻击的实时数据集和基准 的大纲"
             }
           }
         ],
@@ -171,20 +172,23 @@
   },
   "active": "9105abbf69ceff8e",
   "lastOpenFiles": [
+    "Obsidian/支持的 Markdown 扩展.md",
+    "Obsidian/基本格式化语法.md",
+    "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集和基准.md",
+    "Obsidian/高级格式化语法.md",
+    "Obsidian/嵌入网页.md",
+    "Obsidian/标注.md",
     "Pytorch/Build the Neural Network 建立神经网络.md",
+    "CIC IoT dataset 2023",
+    "Pytorch/Tensor 张量.md",
+    "未命名.canvas",
     "Git.md",
     "Pytorch/Transforms 变换.md",
     "Pytorch/Datasets & DataLoaders 数据集和数据加载器.md",
-    "Pytorch/Tensor 张量.md",
-    "Obsidian/基本格式化语法.md",
     "().md",
-    "Obsidian/标注.md",
     "Obsidian/编辑快捷方式.md",
     "Obsidian/编辑和预览 Markdown.md",
-    "Obsidian/嵌入网页.md",
-    "Obsidian/高级格式化语法.md",
     "Pytorch",
-    "Obsidian/支持的 Markdown 扩展.md",
     "[[基本格式化语法]].md",
     "[基本格式化语法.md",
     "[[基本格式化语法.md",
