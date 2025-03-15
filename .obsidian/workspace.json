@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "486a7a887de601cf",
+        "id": "23398c2c69028ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "9105abbf69ceff8e",
+            "id": "bb84aace4becde02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集和基准.md",
+                "file": "Pytorch/Optimizing Model Parameters 优化模型参数.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "物联网环境中大规模攻击的实时数据集和基准"
+              "title": "Optimizing Model Parameters 优化模型参数"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3b79d17913a424c0",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集和基准.md",
+                "file": "Pytorch/Optimizing Model Parameters 优化模型参数.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "物联网环境中大规模攻击的实时数据集和基准 的大纲"
+              "title": "Optimizing Model Parameters 优化模型参数 的大纲"
             }
           }
         ],
@@ -157,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,24 +168,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9105abbf69ceff8e",
+  "active": "bb84aace4becde02",
   "lastOpenFiles": [
-    "Obsidian/支持的 Markdown 扩展.md",
-    "Obsidian/基本格式化语法.md",
-    "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集和基准.md",
-    "Obsidian/高级格式化语法.md",
-    "Obsidian/嵌入网页.md",
-    "Obsidian/标注.md",
-    "Pytorch/Build the Neural Network 建立神经网络.md",
-    "CIC IoT dataset 2023",
-    "Pytorch/Tensor 张量.md",
-    "未命名.canvas",
+    "Pytorch/Save and Load the Model 保存并加载模型.md",
+    "Pytorch/Optimizing Model Parameters 优化模型参数.md",
+    "Pytorch/Automatic Differentiation(自动微分) with torch.autograd.md",
     "Git.md",
+    "Obsidian/嵌入网页.md",
+    "Obsidian/基本格式化语法.md",
+    "Obsidian/高级格式化语法.md",
+    "Obsidian/支持的 Markdown 扩展.md",
+    "Obsidian/标注.md",
+    "Obsidian/编辑和预览 Markdown.md",
+    "Obsidian/编辑快捷方式.md",
+    "Pytorch/Tensor 张量.md",
+    "Latex/Pasted image 20250312170437.png",
+    "Latex/Pasted image 20250312121731.png",
+    "Pytorch/Build the Neural Network 建立神经网络.md",
     "Pytorch/Transforms 变换.md",
     "Pytorch/Datasets & DataLoaders 数据集和数据加载器.md",
+    "Latex/Latex入门.md",
+    "Latex/Pasted image 20250312172559.png",
+    "Latex/Pasted image 20250312170736.png",
+    "Latex/Pasted image 20250312195722.png",
+    "Latex/Pasted image 20250312171312.png",
+    "Latex/Pasted image 20250312170802.png",
+    "Latex/Pasted image 20250312172313.png",
+    "Latex/Pasted image 20250312172113.png",
+    "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集.md",
+    "Latex",
+    "CIC IoT dataset 2023",
+    "未命名.canvas",
     "().md",
-    "Obsidian/编辑快捷方式.md",
-    "Obsidian/编辑和预览 Markdown.md",
     "Pytorch",
     "[[基本格式化语法]].md",
     "[基本格式化语法.md",

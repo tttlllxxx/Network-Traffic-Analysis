@@ -55,7 +55,7 @@ ds = datasets.FashionMNIST(
 ## Lambda变换
 ***
 
-Lambda 变换可应用任何用户定义的 lambda 函数。定义一个函数将整数转换为独热编码张量。它首先创建一个大小为 10（我们数据集中的标签数量）的零张量，然后调用 [scatter_](https://pytorch.org/docs/stable/generated/torch.Tensor.scatter_.html)，该函数将 `value=1`赋值给标签给出的索引`y`。
+Lambda 变换可应用任何用户定义的 lambda 函数。定义一个函数将整数转换为One-hot 编码张量。它首先创建一个大小为 10（我们数据集中的标签数量）的零张量，然后调用 [scatter_](https://pytorch.org/docs/stable/generated/torch.Tensor.scatter_.html)，该函数将 `value=1`赋值给标签给出的索引`y`。
 
 ```Python
 target_transform = Lambda(lambda y: torch.zeros(
