@@ -109,6 +109,7 @@ print(input_image.size())
 torch.Size([3, 28, 28])
 ```
 
+[torch.nn](https://pytorch.org/docs/stable/nn.html)
 ### `nn.Flatten`
 
 初始化[nn.Flatten](https://pytorch.org/docs/stable/generated/torch.nn.Flatten.html)层以将每个28x28的2D图像转换为 784 个像素值的连续数组（保持小批量维度（在 dim=0 时））。
@@ -123,10 +124,41 @@ print(flat_image.size())
 torch.Size([3, 784]) 
 ```
 
-
 ### nn.Linear
 
 nn.Linear是一个使用其存储的权重和偏差对输入应用线性变换的模块。
+
+假设：
+
+- 输入是一个 $d_{\text{in}}​$ 维的向量 $x\in \mathbb{R}^{d_{\text{in}}}$。
+- 线性层的权重矩阵 $W$ 大小为 $d_{\text{out}} \times d_{\text{in}}$ 。
+- 线性层的偏置 $b$ 大小为 $d_{\text{out}}$ 维的向量。
+
+那么，线性变换的计算过程如下：
+
+$$y = Wx + b$$
+
+其中：
+
+- $W$ 控制输入到输出的映射关系，决定了输入如何转换成不同维度。
+- $b$ 是一个偏置项，用于调整输出。
+
+- **`weight`（权重，`torch.Tensor`）**  
+    该层的**可学习权重**，形状为 `(out_features, in_features)`。  
+    权重的初始值从**均匀分布**
+    $$\mathcal{U}(-\sqrt{k}, \sqrt{k})$$
+    
+    进行采样，其中：
+    $$k = \frac{1}{\text{in\_features}}$$
+    
+- **`bias`（偏置，`torch.Tensor`）**  
+    该层的**可学习偏置**，形状为 `(out_features)`。
+    
+    - 如果 `bias=True`，则偏置的初始值同样从均匀分布
+        $$\mathcal{U}(-\sqrt{k}, \sqrt{k})$$
+        
+        进行采样，其中：
+        $$k = \frac{1}{\text{in\_features}}$$
 
 ```Python
 layer1 = nn.Linear(in_features=28*28, out_features=20)

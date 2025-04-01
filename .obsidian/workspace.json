@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23398c2c69028ac7",
+        "id": "1f2978bc7e93a32c",
         "type": "tabs",
         "children": [
           {
-            "id": "bb84aace4becde02",
+            "id": "ea24c96c37f9c666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch/Optimizing Model Parameters 优化模型参数.md",
-                "mode": "preview",
+                "file": "Git.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimizing Model Parameters 优化模型参数"
+              "title": "Git"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290.5
   },
   "right": {
     "id": "3b79d17913a424c0",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pytorch/Optimizing Model Parameters 优化模型参数.md",
+                "file": "CIC IoT dataset 2023/使用pytorch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Optimizing Model Parameters 优化模型参数 的大纲"
+              "title": "使用pytorch 的大纲"
             }
           }
         ],
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,34 +169,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bb84aace4becde02",
+  "active": "ea24c96c37f9c666",
   "lastOpenFiles": [
-    "Pytorch/Save and Load the Model 保存并加载模型.md",
-    "Pytorch/Optimizing Model Parameters 优化模型参数.md",
-    "Pytorch/Automatic Differentiation(自动微分) with torch.autograd.md",
-    "Git.md",
-    "Obsidian/嵌入网页.md",
-    "Obsidian/基本格式化语法.md",
-    "Obsidian/高级格式化语法.md",
-    "Obsidian/支持的 Markdown 扩展.md",
-    "Obsidian/标注.md",
-    "Obsidian/编辑和预览 Markdown.md",
-    "Obsidian/编辑快捷方式.md",
-    "Pytorch/Tensor 张量.md",
-    "Latex/Pasted image 20250312170437.png",
-    "Latex/Pasted image 20250312121731.png",
+    "CIC IoT dataset 2023/使用pytorch.md",
     "Pytorch/Build the Neural Network 建立神经网络.md",
-    "Pytorch/Transforms 变换.md",
     "Pytorch/Datasets & DataLoaders 数据集和数据加载器.md",
+    "Pytorch/Transforms.md",
+    "Pytorch/Automatic Differentiation(自动微分) with torch.autograd.md",
+    "Pytorch/Optimizing Model Parameters 优化模型参数.md",
+    "Pytorch/Save and Load the Model 保存并加载模型.md",
+    "Pytorch/Tensor 张量.md",
+    "深度学习/机器学习基础.md",
+    "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集.md",
     "Latex/Latex入门.md",
-    "Latex/Pasted image 20250312172559.png",
-    "Latex/Pasted image 20250312170736.png",
     "Latex/Pasted image 20250312195722.png",
+    "Latex/Pasted image 20250312172559.png",
+    "Latex/Pasted image 20250312172313.png",
     "Latex/Pasted image 20250312171312.png",
     "Latex/Pasted image 20250312170802.png",
-    "Latex/Pasted image 20250312172313.png",
-    "Latex/Pasted image 20250312172113.png",
-    "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集.md",
+    "Latex/Pasted image 20250312170736.png",
+    "Latex/Pasted image 20250312170437.png",
+    "Latex/Pasted image 20250312121731.png",
+    "Latex/其他符号.png",
+    "Latex/大尺寸定界符.png",
+    "Markdown/标注.md",
+    "Markdown/支持的 Markdown 扩展.md",
+    "Markdown/高级格式化语法.md",
+    "Markdown/基本格式化语法.md",
+    "深度学习详解 (王琦，杨毅远，江季) (Z-Library).epub",
+    "深度学习详解 [转换版] (王琦, 杨毅远, 江季) (Z-Library).pdf",
+    "LeeDL_Tutorial_v.1.2.3.pdf",
+    "深度学习",
+    "Git.md",
+    "Markdown/嵌入网页.md",
+    "Markdown/编辑和预览 Markdown.md",
+    "Markdown/编辑快捷方式.md",
     "Latex",
     "CIC IoT dataset 2023",
     "未命名.canvas",
@@ -206,9 +214,6 @@
     "[[基本格式化语法.md",
     "评论.md",
     "[基本格式化语法].md",
-    "Internal link.md",
-    "Obsidian",
-    "欢迎.md",
-    "创建链接.md"
+    "Markdown"
   ]
 }

@@ -101,7 +101,7 @@ epochs = 5
   
 ### 损失函数
 
-当我们提供一些训练数据时，未训练的网络可能无法给出正确的答案。损失函数衡量的是得到的结果与目标值之间的不相似程度，损失函数在训练过程中希望最小化。为了计算损失，使用给定数据样本的输入进行预测，并将其与真实的标签值进行比较。
+当提供一些训练数据时，未训练的网络可能无法给出正确的答案。损失函数衡量的是得到的结果与目标值之间的不相似程度，损失函数在训练过程中希望最小化。为了计算损失，使用给定数据样本的输入进行预测，并将其与真实的标签值进行比较。
 
 常见的损失函数包括用于回归任务的[nn.MSELoss](https://pytorch.org/docs/stable/generated/torch.nn.MSELoss.html#torch.nn.MSELoss)（均方误差）和用于分类的[nn.NLLLoss](https://pytorch.org/docs/stable/generated/torch.nn.NLLLoss.html#torch.nn.NLLLoss)（负对数似然）。[nn.CrossEntropyLoss](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html#torch.nn.CrossEntropyLoss)结合了`nn.LogSoftmax`和`nn.NLLLoss`。
 

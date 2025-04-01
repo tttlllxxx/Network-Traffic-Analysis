@@ -204,6 +204,7 @@ Here are my results.
 ![[Pasted image 20250312170802.png]]
 
 ## 文字处理
+***
 
 ### 中文字体支持
 
@@ -344,3 +345,40 @@ in the very first sentence , that a single man in possession of a good fortune, 
 ![[Pasted image 20250312195722.png]]
 
 注意，反斜杠不能通过反斜杠转义（不然就变成了换行了），使用 `\textbackslash` 命令代替。
+
+## 数学公式
+***
+
+**指数（上限）** `^`
+**下标（下限）** `_`
+**平方根** `\sqrt`  **n次方根** `\sqrt[n]`
+**表达式的上、下方水平线** `\overline` , `\underline`
+**表达式的上、下方水平大括号** `\overbrace` , `\underbrace`
+**向量** `\vec` **从 A 到 B 的向量** `\overrightarrow` , `\overleftarrow`
+**乘法算式中圆点符** `\cdot`
+**分数** `\frac{分子}{分母}`
+**积分运算符** `\int`
+**求和运算符** `\sum`
+**乘积运算符** `\prod`
+
+## 数学符号表
+***
+
+![[数学模式重音符.png]]
+
+![[小写希腊字母.png]]
+
+![[大写希腊字母.png]]
+![[二元关系符.png]]
+
+![[二元运算符.png]]
+
+![[大尺寸运算符.png]]
+
+![[箭头.png]]
+
+![[定界符.png]]
+
+![[大尺寸定界符.png]]
+
+![[其他符号.png]]
