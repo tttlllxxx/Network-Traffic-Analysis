@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f2978bc7e93a32c",
+        "id": "4e5afa90f4e502bb",
         "type": "tabs",
         "children": [
           {
-            "id": "ea24c96c37f9c666",
+            "id": "a4a1e62ee48439f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 337.5
   },
   "right": {
     "id": "3b79d17913a424c0",
@@ -142,22 +138,50 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CIC IoT dataset 2023/使用pytorch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "使用pytorch 的大纲"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "8a3fca827f7aeb06",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b739c7d66818e5a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "347fd14274b70805",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,54 +190,58 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea24c96c37f9c666",
+  "active": "347fd14274b70805",
   "lastOpenFiles": [
-    "CIC IoT dataset 2023/使用pytorch.md",
-    "Pytorch/Build the Neural Network 建立神经网络.md",
-    "Pytorch/Datasets & DataLoaders 数据集和数据加载器.md",
-    "Pytorch/Transforms.md",
-    "Pytorch/Automatic Differentiation(自动微分) with torch.autograd.md",
-    "Pytorch/Optimizing Model Parameters 优化模型参数.md",
-    "Pytorch/Save and Load the Model 保存并加载模型.md",
-    "Pytorch/Tensor 张量.md",
-    "深度学习/机器学习基础.md",
-    "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集.md",
-    "Latex/Latex入门.md",
-    "Latex/Pasted image 20250312195722.png",
-    "Latex/Pasted image 20250312172559.png",
-    "Latex/Pasted image 20250312172313.png",
-    "Latex/Pasted image 20250312171312.png",
-    "Latex/Pasted image 20250312170802.png",
-    "Latex/Pasted image 20250312170736.png",
-    "Latex/Pasted image 20250312170437.png",
-    "Latex/Pasted image 20250312121731.png",
-    "Latex/其他符号.png",
-    "Latex/大尺寸定界符.png",
-    "Markdown/标注.md",
-    "Markdown/支持的 Markdown 扩展.md",
-    "Markdown/高级格式化语法.md",
-    "Markdown/基本格式化语法.md",
-    "深度学习详解 (王琦，杨毅远，江季) (Z-Library).epub",
-    "深度学习详解 [转换版] (王琦, 杨毅远, 江季) (Z-Library).pdf",
-    "LeeDL_Tutorial_v.1.2.3.pdf",
-    "深度学习",
-    "Git.md",
-    "Markdown/嵌入网页.md",
-    "Markdown/编辑和预览 Markdown.md",
-    "Markdown/编辑快捷方式.md",
-    "Latex",
-    "CIC IoT dataset 2023",
     "未命名.canvas",
-    "().md",
-    "Pytorch",
-    "[[基本格式化语法]].md",
-    "[基本格式化语法.md",
-    "[[基本格式化语法.md",
-    "评论.md",
-    "[基本格式化语法].md",
-    "Markdown"
+    "APT/4.md",
+    "论文/笔记框架.md",
+    "CIC IoT dataset 2023/物联网环境中大规模攻击的实时数据集.md",
+    "APT/评价体系.md",
+    "Latex/图片",
+    "论文/A Survey on Encrypted Network Traffic Analysis Applications, Techniques, and Countermeasures.md",
+    "论文/Attention Is All You Need.md",
+    "论文/Analyzing Android Encrypted Network Traffic to Identify User Actions.md",
+    "论文/A Survey on Advanced Persistent Threats  Techniques, Solutions, Challenges, and Research Opportunities.md",
+    "论文/图片",
+    "论文/未命名.md",
+    "深度学习/图片",
+    "APT/行为画像.md",
+    "APT/不同数据种类及其对应APT攻击阶段.md",
+    "APT",
+    "论文/图片/APT attack model.png",
+    "复现/Analyzing Android Encrypted Network Traffic to Identify User Actions/analyzing.ipynb",
+    "复现/Analyzing Android Encrypted Network Traffic to Identify User Actions/Untitled-1.txt",
+    "复现/Analyzing Android Encrypted Network Traffic to Identify User Actions",
+    "复现/新建文件夹",
+    "复现",
+    "新建文件夹",
+    "CIC IoT dataset 2023/使用pytorch.md",
+    "论文/图片/The Transformer model architecture.png",
+    "深度学习/卷积神经网络.md",
+    "深度学习/元学习（meta learning）.md",
+    "深度学习/强化学习（Reinforcement Learing,RL）.md",
+    "深度学习/迁移学习（transfer learning）.md",
+    "深度学习/对抗攻击.md",
+    "深度学习/自编码器（autoencoder）.md",
+    "深度学习/自监督学习（Self-Supervised Learning，SSL）.md",
+    "深度学习/扩散模型（diffusion model）.md",
+    "深度学习/生成模型（generative model）.md",
+    "深度学习/Transformer.md",
+    "深度学习/自注意力机制.md",
+    "深度学习/图片/局部最小值.png",
+    "深度学习/循环神经网络（Recurrent Neural Network,RNN）.md",
+    "Markdown/支持的 Markdown 扩展.md",
+    "Latex/图片/Pasted image 20250312195722.png",
+    "Latex/图片/Pasted image 20250312172559.png",
+    "Latex/图片/Pasted image 20250312172313.png",
+    "Latex/图片/Pasted image 20250312171312.png",
+    "Latex/图片/Pasted image 20250312170802.png",
+    "Latex/图片/Pasted image 20250312170736.png",
+    "Latex/图片/Pasted image 20250312170437.png"
   ]
 }
