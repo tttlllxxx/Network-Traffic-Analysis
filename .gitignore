@@ -1,4 +1,0 @@
-node_modules
-
-# Minimind 为嵌套 Git 仓库，避免 "does not have a commit checked out"：要么忽略，要么删除其内 .git 后按普通目录添加
-Minimind/
