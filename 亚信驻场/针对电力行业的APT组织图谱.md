@@ -1,0 +1,15 @@
+- APT28（Fancy Bear）
+- APT29（Cozy Bear）
+- Sandworm（APT44）
+- Dragonfly（Energetic Bear）
+- Lazarus Group
+- APT10（Stone Panda）
+- APT3（Gothic Panda）
+- APT-C-39（国内常用编号）
+- APT41
+- APT34（OilRig）
+- APT33（Elfin）
+- DarkEnergy（常与 Sandworm 关联）
+- Turla
+- Volt Typhoon
+- Industroyer / CrashOverride 相关攻击组织（可作为“攻击组织/活动实体”建模）

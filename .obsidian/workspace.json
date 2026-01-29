@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "d0b94febaabbd002",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b81c383300f95a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "069bfce01c51c692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a90954ab8580e9cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e3b1d524fda9ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f1ed252e4a95552",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6681a9fdba00897e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c7b7430fba7ce0dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3b79d17913a424c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d270070949b3bbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c100af902e45b0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/支持的 Markdown 扩展.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "支持的 Markdown 扩展 的反向链接列表"
+            }
+          },
+          {
+            "id": "93c263eb4d0ff8e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/支持的 Markdown 扩展.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "支持的 Markdown 扩展 的出链列表"
+            }
+          },
+          {
+            "id": "735175430c107739",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d6beb8a6b152fd9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Git 的大纲"
+            }
+          },
+          {
+            "id": "8a3fca827f7aeb06",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b739c7d66818e5a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "347fd14274b70805",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7f1ed252e4a95552",
+  "lastOpenFiles": [
+    "未命名.base",
+    "未命名 1.base",
+    "Git.md",
+    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/APT攻击行为画像评价指标体系.md",
+    "APT/题目拟定/基于多源信息融合的APT攻击行为画像精准度评估方法.md",
+    "APT/题目拟定/基于深度学习的APT攻击行为图像评估与反馈优化方法.md",
+    "APT/题目拟定/题目拟定.md",
+    "APT/题目拟定/APT攻击行为画像质量评价指标体系构建.md",
+    "APT/攻击链路径图.md",
+    "APT/不同数据种类及其对应APT攻击阶段.md",
+    "APT/行为画像.md",
+    "APT/APT图像.md",
+    "APT/评价体系.md",
+    "亚信驻场/技术指标要求.jpg",
+    "亚信驻场/vuetest/dist/index.html",
+    "亚信驻场/vuetest/dist/assets/index-U0g0uP51.js",
+    "亚信驻场/vuetest/dist/assets/index-Chjsn116.css",
+    "亚信驻场/vuetest/dist/assets",
+    "亚信驻场/vuetest/dist/图谱15/apt_knowledge_graph_09.html",
+    "亚信驻场/vuetest/dist/图谱15/apt_knowledge_graph_08.html",
+    "亚信驻场/vuetest/dist/图谱15/apt_knowledge_graph_07.html",
+    "亚信驻场/vuetest/dist/图谱15/apt_knowledge_graph_06.html",
+    "亚信驻场/vuetest/dist/图谱15/apt_knowledge_graph_05.html",
+    "亚信驻场/vuetest/node_modules/@antv/algorithm/README.md",
+    "亚信驻场/vuetest/server/node_modules/accepts/HISTORY.md",
+    "亚信驻场/vuetest/BACKEND_API_DESIGN.md",
+    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/面向APT攻击行为画像的多维度评价指标体系研究（论文框架）.md",
+    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/专利权利要求书模板.md",
+    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/一种面向APT攻击行为画像的多维度评价方法与系统（专利草稿）.md",
+    "Transform相关问题.md",
+    "Users/tlx/Network-Traffic-Analysis-master/llm_interview_note-main/01.大语言模型基础/1.分词/1.分词.md",
+    "Users/tlx/Network-Traffic-Analysis-master/llm_interview_note-main/01.大语言模型基础.md",
+    "亚信驻场/vuetest/server/node_modules/fsevents/README.md",
+    "亚信驻场/vuetest/server/node_modules/body-parser/README.md",
+    "亚信驻场/vuetest/server/node_modules/body-parser/HISTORY.md",
+    "亚信驻场/vuetest/server/node_modules/nodemon/README.md",
+    "亚信驻场/vuetest/server/node_modules/cors/README.md",
+    "亚信驻场/图谱15/industry_cluster.png",
+    "亚信驻场/图谱15/kg_from_txt.png",
+    "亚信驻场/图谱15/graph_all_degree1.png",
+    "亚信驻场/图谱15/graph_all_degree.png",
+    "亚信驻场/图谱15/graph_all.png",
+    "亚信驻场/图谱15/apt-c-40_d2.png",
+    "Minimind/架构图.png",
+    "亚信驻场/知识图谱/node_modules/vite-plugin-vue-devtools/client/logo.svg",
+    "亚信驻场/知识图谱/node_modules/vite-plugin-inspect/dist/client/favicon.svg",
+    "未命名.canvas"
+  ]
+}
