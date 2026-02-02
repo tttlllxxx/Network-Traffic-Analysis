@@ -167,7 +167,7 @@ const stats = getStatistics()
 // 攻击方法 / 攻击武器列表弹窗
 const showMethodsModal = ref(false)
 const showWeaponsModal = ref(false)
-// 当前选中的图谱索引（1-9）
+// 当前选中的图谱索引（1-15）
 const selectedGraphIndex = ref(null)
 
 // ========== 区域大小控制 ==========
@@ -219,7 +219,7 @@ function handleFilterChange(newFilters) {
 
 /**
  * 处理图谱选择事件（来自 DetailPanel）
- * @param {number} index - 选中的图谱索引（1-9）
+ * @param {number} index - 选中的图谱索引（1-15）
  */
 function handleGraphSelect(index) {
   selectedGraphIndex.value = index
@@ -228,7 +228,7 @@ function handleGraphSelect(index) {
 
 /**
  * 获取图谱HTML文件路径
- * @param {number} index - 图谱索引（1-9）
+ * @param {number} index - 图谱索引（1-15）
  * @returns {string} HTML文件路径
  */
 function getGraphHtmlPath(index) {

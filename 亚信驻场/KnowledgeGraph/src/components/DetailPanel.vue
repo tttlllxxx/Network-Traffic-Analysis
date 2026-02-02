@@ -9,7 +9,7 @@
         <p class="section-description">选择要查看的APT知识图谱</p>
         <div class="graph-list">
           <div
-            v-for="index in 9"
+            v-for="index in 15"
             :key="index"
             class="graph-item"
             :class="{ active: selectedGraphIndex === index }"

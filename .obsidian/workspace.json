@@ -11,17 +11,28 @@
             "id": "069bfce01c51c692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
+                "file": "亚信驻场/技术指标要求.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Git"
+              "icon": "lucide-image",
+              "title": "技术指标要求"
+            }
+          },
+          {
+            "id": "8f1d65e5d5bea45c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "亚信驻场/技术指标要求.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "技术指标要求"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md",
+                "file": "亚信驻场/技术指标要求.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 的大纲"
+              "title": "技术指标要求 的大纲"
             }
           },
           {
@@ -186,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,45 +212,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "069bfce01c51c692",
+  "active": "8f1d65e5d5bea45c",
   "lastOpenFiles": [
-    "亚信驻场/package.json",
-    "亚信驻场/package-lock.json",
-    "未命名.base",
-    "未命名 1.base",
-    "Git.md",
+    "亚信驻场/APT攻击画像评估体系.md",
+    "亚信驻场/技术指标要求.jpg",
     "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/APT攻击行为画像评价指标体系.md",
-    "APT/题目拟定/基于多源信息融合的APT攻击行为画像精准度评估方法.md",
+    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/专利权利要求书模板.md",
+    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/一种面向APT攻击行为画像的多维度评价方法与系统（专利草稿）.md",
+    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/面向APT攻击行为画像的多维度评价指标体系研究（论文框架）.md",
+    "APT/面向图神经网络APT攻击行为建模的评价体系研究/CICAPT-IIoT Dataset.md",
+    "APT/面向图神经网络APT攻击行为建模的评价体系研究/APT行为图的设计文档草稿.md",
+    "APT/面向图神经网络APT攻击行为建模的评价体系研究/面向图神经网络APT攻击行为建模的评价体系研究.md",
+    "APT/面向图神经网络APT攻击行为建模的评价体系研究/面向图神经网络APT攻击行为建模的评价-反馈机制原型设计文档.md",
+    "APT/面向图神经网络APT攻击行为建模的评价体系研究/基于真实流量日志输入的评价驱动 GNN 闭环系统.md",
+    "APT/面向图神经网络APT攻击行为建模的评价体系研究/多维度评价指标体系设计.md",
+    "APT/攻击链路径图.md",
+    "APT/不同数据种类及其对应APT攻击阶段.md",
+    "APT/评价体系.md",
+    "APT/行为画像.md",
     "APT/题目拟定/基于深度学习的APT攻击行为图像评估与反馈优化方法.md",
     "APT/题目拟定/题目拟定.md",
     "APT/题目拟定/APT攻击行为画像质量评价指标体系构建.md",
-    "APT/攻击链路径图.md",
-    "APT/不同数据种类及其对应APT攻击阶段.md",
-    "APT/行为画像.md",
+    "亚信驻场/TDA/项目结构.md",
+    "llm_interview_note-main/01.大语言模型基础/3.语言模型基础知识/1.Word2Vec/Word2Vec.md",
+    "亚信驻场/TDA",
+    "亚信驻场/KnowledgeGraph/public/图谱15/apt_knowledge_graph_15.html",
+    "亚信驻场/KnowledgeGraph/public/图谱15/apt_knowledge_graph_14.html",
+    "亚信驻场/KnowledgeGraph/public/图谱15/apt_knowledge_graph_13.html",
+    "亚信驻场/KnowledgeGraph/public/图谱15/apt_knowledge_graph_12.html",
+    "亚信驻场/KnowledgeGraph/public/图谱15/apt_knowledge_graph_11.html",
+    "亚信驻场/KnowledgeGraph/public/图谱15/apt_knowledge_graph_10.html",
+    "亚信驻场/KnowledgeGraph/public/图谱15/apt_knowledge_graph_09.html",
+    "亚信驻场/KnowledgeGraph/public/图谱15/apt_knowledge_graph_08.html",
+    "亚信驻场/KnowledgeGraph/public/图谱15/apt_knowledge_graph_07.html",
+    "llm_interview_note-main/01.大语言模型基础/1.语言模型/1.语言模型.md",
+    "亚信驻场/驻场.md",
+    "Git.md",
+    "APT/题目拟定/基于多源信息融合的APT攻击行为画像精准度评估方法.md",
     "APT/APT图像.md",
-    "APT/评价体系.md",
-    "亚信驻场/技术指标要求.jpg",
-    "亚信驻场/vuetest/dist/index.html",
-    "亚信驻场/vuetest/dist/assets/index-U0g0uP51.js",
-    "亚信驻场/vuetest/dist/assets/index-Chjsn116.css",
-    "亚信驻场/vuetest/dist/assets",
-    "亚信驻场/vuetest/dist/图谱15/apt_knowledge_graph_09.html",
-    "亚信驻场/vuetest/dist/图谱15/apt_knowledge_graph_08.html",
-    "亚信驻场/vuetest/dist/图谱15/apt_knowledge_graph_07.html",
-    "亚信驻场/vuetest/node_modules/@antv/algorithm/README.md",
-    "亚信驻场/vuetest/server/node_modules/accepts/HISTORY.md",
-    "亚信驻场/vuetest/BACKEND_API_DESIGN.md",
-    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/面向APT攻击行为画像的多维度评价指标体系研究（论文框架）.md",
-    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/专利权利要求书模板.md",
-    "APT/面向APT攻击行为画像的深度学习检测方法多维评估体系研究/一种面向APT攻击行为画像的多维度评价方法与系统（专利草稿）.md",
-    "Transform相关问题.md",
-    "Users/tlx/Network-Traffic-Analysis-master/llm_interview_note-main/01.大语言模型基础/1.分词/1.分词.md",
-    "Users/tlx/Network-Traffic-Analysis-master/llm_interview_note-main/01.大语言模型基础.md",
-    "亚信驻场/vuetest/server/node_modules/fsevents/README.md",
-    "亚信驻场/vuetest/server/node_modules/body-parser/README.md",
-    "亚信驻场/vuetest/server/node_modules/body-parser/HISTORY.md",
-    "亚信驻场/vuetest/server/node_modules/nodemon/README.md",
-    "亚信驻场/vuetest/server/node_modules/cors/README.md",
     "亚信驻场/图谱15/industry_cluster.png",
     "亚信驻场/图谱15/kg_from_txt.png",
     "亚信驻场/图谱15/graph_all_degree1.png",
